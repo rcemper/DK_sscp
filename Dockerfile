@@ -1,10 +1,10 @@
-<<<<<<< Updated upstream
+# <<<<<<< Updated upstream
 # The most minimalistic dockerfile possible.
-=======
+# =======
 # The most minimumalistic dockerfile possible.
 #  No embedded python support, no unit-testing, no aliases.
 # ARG IMAGE=intersystemsdc/irishealth-community
->>>>>>> Stashed changes
+# >>>>>>> Stashed changes
 ARG IMAGE=intersystemsdc/iris-community
 FROM $IMAGE
 
